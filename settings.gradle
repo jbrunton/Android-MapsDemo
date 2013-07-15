@@ -1,1 +1,1 @@
-include ':MapsDemo'
+include ':MapsDemo', ':libraries:google-play-services'

@@ -2,4 +2,4 @@
 .gradle/
 *.iml
 local.properties
-MapsDemo/build/
+build
