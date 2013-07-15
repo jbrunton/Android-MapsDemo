@@ -13,8 +13,8 @@ repositories {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:13.0.+'
     compile project(':libraries:google-play-services')
+    compile 'com.android.support:support-v4:13.0.+'
 }
 
 android {
@@ -22,7 +22,7 @@ android {
     buildToolsVersion "17.0.0"
 
     defaultConfig {
-        minSdkVersion 7
+        minSdkVersion 8
         targetSdkVersion 16
     }
 }
